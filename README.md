@@ -12,5 +12,4 @@ Just open `index.html` in our browser
 Calculator/ |- index.html |-style.css |-script.js |-README.md
 
 # Author
-Punita Bisht -Aspriring Frontend Developer
-
+Punita Bisht -Aspiring Frontend Developer
